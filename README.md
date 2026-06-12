@@ -1,2 +1,2 @@
 # RL-Based-High-Frequency-Market-Making
-Official Paper: Reinforcement Learning in High-frequency Market Making. Yuheng Zheng, Zihan Ding.
+Official Paper: https://arxiv.org/abs/2407.21025
